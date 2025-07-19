@@ -1,0 +1,4 @@
+loadbin build/asd.bin
+r
+g
+q
