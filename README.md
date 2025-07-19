@@ -16,3 +16,6 @@ JLinkExe -device STM32F411CE -if SWD -speed 4000 -autoconnect 1
 Jlink Cmd -
 loadbin build/asd.bin, 0x08000000
 
+
+or this reportrise in build.sh run
+
